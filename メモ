@@ -1,0 +1,46 @@
+
+■元がエクセルファイルなので、pandasのread_excelでデータフレームに入れて、CSVにする（名前も変える）
+
+
+■UCIのオンライン販売データを用いる
+・データ処理
+describe()
+pandas_profiling
+
+read_csv(dtyepe=, )
+
+head(), tail()
+
+dataframe
+series
+
+dtypes
+.columns
+
+count, sum, mean
+
+query
+startwith
+正規表現
+astype（coerce）
+replace
+split
+
+isnull
+nanの処理 dropna
+
+to_datetime(format)
+relativedelta
+
+merge
+concat
+
+
+・データ集計
+group by
+agg
+shift
+rolling
+pivot table
+
+
